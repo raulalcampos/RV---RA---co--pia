@@ -1,0 +1,11 @@
+Model Information:
+* title:	BOM BA MILK
+* source:	https://sketchfab.com/3d-models/bom-ba-milk-41589a39a0234cec8fc171e734d8359d
+* author:	riccardopallotto (https://sketchfab.com/riccardopallotto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BOM BA MILK" (https://sketchfab.com/3d-models/bom-ba-milk-41589a39a0234cec8fc171e734d8359d) by riccardopallotto (https://sketchfab.com/riccardopallotto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

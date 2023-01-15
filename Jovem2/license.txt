@@ -1,0 +1,11 @@
+Model Information:
+* title:	2072
+* source:	https://sketchfab.com/3d-models/2072-889d41e17bf7480ca7c5f794a14589c1
+* author:	3Dmyselfie (https://sketchfab.com/3Dmyselfie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2072" (https://sketchfab.com/3d-models/2072-889d41e17bf7480ca7c5f794a14589c1) by 3Dmyselfie (https://sketchfab.com/3Dmyselfie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

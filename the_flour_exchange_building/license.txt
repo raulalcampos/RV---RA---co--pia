@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Flour Exchange Building
+* source:	https://sketchfab.com/3d-models/the-flour-exchange-building-b4458d60292b4ecdaeba97f04e70c13d
+* author:	hamma085 (https://sketchfab.com/hamma085)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Flour Exchange Building" (https://sketchfab.com/3d-models/the-flour-exchange-building-b4458d60292b4ecdaeba97f04e70c13d) by hamma085 (https://sketchfab.com/hamma085) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

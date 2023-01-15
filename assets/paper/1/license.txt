@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scrunched Paper
+* source:	https://sketchfab.com/3d-models/scrunched-paper-333f89070a2f4d0d8b0b30ebfe67cd06
+* author:	abdillaamy (https://sketchfab.com/abdillaamy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scrunched Paper" (https://sketchfab.com/3d-models/scrunched-paper-333f89070a2f4d0d8b0b30ebfe67cd06) by abdillaamy (https://sketchfab.com/abdillaamy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
